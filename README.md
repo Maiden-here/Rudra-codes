@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rudra-codes
+- 👋 Hi, I’m @Maiden
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning game development
 - More projects coming soon
